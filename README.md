@@ -1,16 +1,28 @@
 ## Hi there 👋
 
-<!--
-**RomelSeguira/RomelSeguira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🚀 C++ Learning Repository
 
-Here are some ideas to get you started:
+## About This Repository
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This repository is dedicated to tracking my progress as I learn C++ as a first-year Computer Science student.
+
+It contains:
+* **Coursework:** Assignments and labs from my C++ programming course.
+* **Simple Projects:** Small, self-contained projects built to practice new concepts.
+* **Data Structures:** Implementations of basic data structures (like arrays, linked lists) as I learn them.
+
+## 🛠️ Environment
+
+* **Language:** C++
+I still got no pc, Im learning through coding c++ application.
+
+## Goal
+
+To build a strong foundational understanding of C++ syntax, Object-Oriented Programming (OOP) principles, and efficient algorithms.
+
+---
+
+### Contact
+* Connect with me on my main
+* []
+* (link_to_your_profile_readme)! 
