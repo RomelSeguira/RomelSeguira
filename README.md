@@ -25,4 +25,4 @@ To build a strong foundational understanding of C++ syntax, Object-Oriented Prog
 ### Contact
 * Connect with me on my main
 * []
-* (link_to_your_profile_readme)! 
+* (README.md)! 
