@@ -24,5 +24,5 @@ To build a strong foundational understanding of C++ syntax, Object-Oriented Prog
 
 ### Contact
 * Connect with me on my main
-* []
+* [https://github.com/RomelSeguira]
 * (README.md)! 
