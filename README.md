@@ -28,4 +28,6 @@ My goal is to build a strong foundational understanding of C++ syntax, Object-Or
 ## 📞 Contact
 
 * Connect with me on my main GitHub Profile: [RomelSeguira](https://github.com/RomelSeguira)
+* For my portfolio,
+Profile: [Currently Making]
 
