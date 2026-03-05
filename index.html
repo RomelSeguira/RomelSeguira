@@ -1,56 +1,65 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>My Portfolio</title>
-    <style>
-        .box {
-            width: 400px;
-            text-align: left; }        
-        .pic {
-            width: 150px;
-            height: 150px; }       
-        input {
-            width: 350px;
-            margin-bottom: 10px; }     
-        textarea {
-            width: 350px;
-            margin-bottom: 10px; }        
-    </style>
+  <head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Portfolio</title>
+<link rel="stylesheet" href="style.css">
 </head>
-<body> <br>
-    <div class="box">
-        <img src="profile.jpg" class="pic">
-        <hr>
-        <h3>NAME: Romel Seguira</h3>
-        <p><b>COURSE:</b> BSCS</p>
-        <p><b>SECTION:</b> 1-B</p>
-        <hr>
-        <h3 align="left">BIT INFO</h3>        
+<body>
+  <header class="header">
+    <nav class="navbar">
+    <a href="#home" class="active">Home</a>
+    <a href="Quizzes.html">Quizzes</a>
+    <a href="Activities.html">Activity</a>
+    <a href="Laboratory.html">Laboratories<a>
+    <a href="Project.html">Projects</a>
+    <a href="#about">About</a>
+    <a href="#contact">Contact</a>
+    </nav>
+  </header>
+      <section class="home">
+        <div class="home-content">
+          <div class="text1">
+            <h1> Hello, I'm Romel Seguira</h1>
+            <p> I am a first year student in Cavite State University Silang.</p>
+            <p>If you want to know more about me.</p>
+           <a href="#about"><button>Click Here!</button></a>
+          </div>
+          <div class="img-box">
+            <img src= "profile.jpg" alt="Picture of Me">
+          </div>
+        </div>
+      </section>
+      <section id="about" class="about-section">
+    <div class="about-container">
+        <h2>About Me</h2>
         
-        <p align="left">
-            Hello, I'm Romel  😎. I live in Dasmariñas, Cavite.
+        <div class="about-content">
+            <p>I am currently a first-year student pursuing a Bachelor of Science in Computer Science, section 1-B, at Cavite State University - Silang Campus.</p>
             
-        </p>
-        <p align="left"><b>My Hobbies:</b></p>
-        <ul align="left">
-            <li>Reading(Manhwa,Manga,Novel)</li>
-            <li>Online Games</li>
-            <li>Playing Guitar</li>
-        </ul> <hr>
-        <h3>Contact Me</h3>
-      <h1.5> Email: romelseguiragit@gmail.com <br>
-             Mobile: 09664576553
-      </h1.5>
-        
-        <form action="mailto:romelseguiragit@gmail.com" method="POST" enctype="text/plain">
-            <label>Name:</label><br>
-            <input type="text" name="uName"><br>
-            <!--asking for user messae input-->
-            <label>Message:</label><br>
-            <textarea name="messsage">Your Message… ✌</textarea><br>
-            <!--botton submit-->
-            <input type="submit">
-        </form>
+            <h3>Educational Background</h3>
+            <ul>
+                <li><strong>College:</strong> Cavite State University - Silang Campus (BS Computer Science)</li>
+                <li><strong>Senior High School:</strong> Paliparan 3 Senior High School (Graduated with an 89.3 GPA)</li>
+                <li><strong>Junior High School:</strong> Paliparan 3 National High School</li>
+                <li><strong>Elementary:</strong> Catubig Elementary School, Northern Samar</li>
+            </ul>
+
+            <h3>Why Computer Science?</h3>
+            <p>I chose Computer Science because I have a strong passion for game development and software creation. I am actively expanding my knowledge in programming languages such as C++, Java, Python, and HTML/CSS. One of my goals is to develop my own games, potentially starting with a visual novel, and to turn my creative ideas into reality.</p>
+
+            <h3>Interests & Hobbies</h3>
+            <p>Outside of my studies, my interests are quite varied. I stay active through sports, enjoy reading manhua, manhwa, and manga, and spend time playing online games like Crossfire Legends and Clash of Clans. If you want we can play add me here my id's: <br>
+              1.) <br>
+            </p>
+
+            <h3>Looking Forward</h3>
+            <p>Right now, my main focus is on building and refining my technical skills. I hope to eventually feature my own coding projects right here. While the "Projects" section in my navigation menu is a placeholder for now, it serves as motivation for what I plan to accomplish and share in the near future.</p>
+        </div>
     </div>
-</body>
-</html>
+</section>
+
+  </body>
+    </html>
